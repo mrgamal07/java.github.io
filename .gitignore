@@ -1,0 +1,17 @@
+# Ignore compiled class files
+*.class
+
+# Ignore IntelliJ IDEA project files
+/.idea/
+/out/
+/*.iml
+
+# Ignore build folders
+/build/
+/target/
+
+# Ignore log files
+*.log
+
+# Ignore database folder if you want (optional)
+/Database/
